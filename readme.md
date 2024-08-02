@@ -1,0 +1,1 @@
+<img src = "./src/assets/automovil.drawio.png">
